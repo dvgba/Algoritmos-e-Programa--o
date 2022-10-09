@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1716
 codigo = input("")
 salario = float(input(""))
 
