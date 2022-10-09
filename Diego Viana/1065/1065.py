@@ -1,4 +1,6 @@
+# URL do enunciado
 # https://www.beecrowd.com.br/judge/pt/problems/view/1065
+
 a = []
 for i in range(5):
     n = int(input())

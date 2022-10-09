@@ -1,4 +1,6 @@
+# URL do enunciado
 # https://www.beecrowd.com.br/judge/pt/problems/view/1008
+
 ID = int(input())
 HR = int(input())
 VH = float(input())

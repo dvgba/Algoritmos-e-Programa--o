@@ -1,4 +1,6 @@
+# URL do enunciado
 # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760
+
 qtdPessoas = 4
 con90 = 0
 idade = 0

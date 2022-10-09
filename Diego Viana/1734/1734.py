@@ -1,4 +1,6 @@
+# URL do enunciado
 # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1734
+
 fat = int(input())
 
 res = 1

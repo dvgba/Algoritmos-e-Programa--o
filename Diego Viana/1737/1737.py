@@ -1,4 +1,6 @@
+# URL do enunciado
 # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1737
+
 n = 1
 soma = 0
 y = int(input())
