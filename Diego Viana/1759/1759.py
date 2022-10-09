@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759
 anoAtual = int(input(""))
 valIni = float(input(""))
 valSoma = 1015

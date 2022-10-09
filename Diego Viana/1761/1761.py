@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761
 def clear():
     print("\n" * 40)
 while True:
