@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1005
 n1 = float(input(""))
 n2 = float(input(""))
 
